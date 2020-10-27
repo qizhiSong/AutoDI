@@ -1,0 +1,9 @@
+E:\项目案例\AutoDI\AutoDI.Entity\bin\Debug\netcoreapp3.1\AutoDI.Entity.deps.json
+E:\项目案例\AutoDI\AutoDI.Entity\bin\Debug\netcoreapp3.1\AutoDI.Entity.dll
+E:\项目案例\AutoDI\AutoDI.Entity\bin\Debug\netcoreapp3.1\AutoDI.Entity.pdb
+E:\项目案例\AutoDI\AutoDI.Entity\obj\Debug\netcoreapp3.1\AutoDI.Entity.csprojAssemblyReference.cache
+E:\项目案例\AutoDI\AutoDI.Entity\obj\Debug\netcoreapp3.1\AutoDI.Entity.AssemblyInfoInputs.cache
+E:\项目案例\AutoDI\AutoDI.Entity\obj\Debug\netcoreapp3.1\AutoDI.Entity.AssemblyInfo.cs
+E:\项目案例\AutoDI\AutoDI.Entity\obj\Debug\netcoreapp3.1\AutoDI.Entity.csproj.CoreCompileInputs.cache
+E:\项目案例\AutoDI\AutoDI.Entity\obj\Debug\netcoreapp3.1\AutoDI.Entity.dll
+E:\项目案例\AutoDI\AutoDI.Entity\obj\Debug\netcoreapp3.1\AutoDI.Entity.pdb

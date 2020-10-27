@@ -1,0 +1,14 @@
+E:\项目案例\AutoDI\AutoDI.Repository\bin\Debug\netcoreapp3.1\AutoDI.Repository.deps.json
+E:\项目案例\AutoDI\AutoDI.Repository\bin\Debug\netcoreapp3.1\AutoDI.Repository.dll
+E:\项目案例\AutoDI\AutoDI.Repository\bin\Debug\netcoreapp3.1\AutoDI.Repository.pdb
+E:\项目案例\AutoDI\AutoDI.Repository\bin\Debug\netcoreapp3.1\AutoDI.IRepository.dll
+E:\项目案例\AutoDI\AutoDI.Repository\bin\Debug\netcoreapp3.1\AutoDI.Others.dll
+E:\项目案例\AutoDI\AutoDI.Repository\bin\Debug\netcoreapp3.1\AutoDI.IRepository.pdb
+E:\项目案例\AutoDI\AutoDI.Repository\bin\Debug\netcoreapp3.1\AutoDI.Others.pdb
+E:\项目案例\AutoDI\AutoDI.Repository\obj\Debug\netcoreapp3.1\AutoDI.Repository.csprojAssemblyReference.cache
+E:\项目案例\AutoDI\AutoDI.Repository\obj\Debug\netcoreapp3.1\AutoDI.Repository.AssemblyInfoInputs.cache
+E:\项目案例\AutoDI\AutoDI.Repository\obj\Debug\netcoreapp3.1\AutoDI.Repository.AssemblyInfo.cs
+E:\项目案例\AutoDI\AutoDI.Repository\obj\Debug\netcoreapp3.1\AutoDI.Repository.csproj.CoreCompileInputs.cache
+E:\项目案例\AutoDI\AutoDI.Repository\obj\Debug\netcoreapp3.1\AutoDI.Repository.csproj.CopyComplete
+E:\项目案例\AutoDI\AutoDI.Repository\obj\Debug\netcoreapp3.1\AutoDI.Repository.dll
+E:\项目案例\AutoDI\AutoDI.Repository\obj\Debug\netcoreapp3.1\AutoDI.Repository.pdb

@@ -1,0 +1,156 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AutoDI.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AutoDI.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutoDI.Entity.dll": {}
+        }
+      },
+      "AutoDI.IRepository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AutoDI.IRepository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutoDI.IRepository.dll": {}
+        }
+      },
+      "AutoDI.Others/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/AutoDI.Others.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutoDI.Others.dll": {}
+        }
+      },
+      "AutoDI.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "AutoDI.IRepository": "1.0.0",
+          "AutoDI.Others": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AutoDI.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutoDI.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoDI.Entity/1.0.0": {
+      "type": "project",
+      "path": "../AutoDI.Entity/AutoDI.Entity.csproj",
+      "msbuildProject": "../AutoDI.Entity/AutoDI.Entity.csproj"
+    },
+    "AutoDI.IRepository/1.0.0": {
+      "type": "project",
+      "path": "../AutoDI.IRepository/AutoDI.IRepository.csproj",
+      "msbuildProject": "../AutoDI.IRepository/AutoDI.IRepository.csproj"
+    },
+    "AutoDI.Others/1.0.0": {
+      "type": "project",
+      "path": "../AutoDI.Other/AutoDI.Others.csproj",
+      "msbuildProject": "../AutoDI.Other/AutoDI.Others.csproj"
+    },
+    "AutoDI.Repository/1.0.0": {
+      "type": "project",
+      "path": "../AutoDI.Repository/AutoDI.Repository.csproj",
+      "msbuildProject": "../AutoDI.Repository/AutoDI.Repository.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "AutoDI.Entity >= 1.0.0",
+      "AutoDI.IRepository >= 1.0.0",
+      "AutoDI.Others >= 1.0.0",
+      "AutoDI.Repository >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Simonsong\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\项目案例\\AutoDI\\AutoDI\\AutoDI.csproj",
+      "projectName": "AutoDI",
+      "projectPath": "E:\\项目案例\\AutoDI\\AutoDI\\AutoDI.csproj",
+      "packagesPath": "C:\\Users\\Simonsong\\.nuget\\packages\\",
+      "outputPath": "E:\\项目案例\\AutoDI\\AutoDI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Simonsong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\项目案例\\AutoDI\\AutoDI.Entity\\AutoDI.Entity.csproj": {
+              "projectPath": "E:\\项目案例\\AutoDI\\AutoDI.Entity\\AutoDI.Entity.csproj"
+            },
+            "E:\\项目案例\\AutoDI\\AutoDI.IRepository\\AutoDI.IRepository.csproj": {
+              "projectPath": "E:\\项目案例\\AutoDI\\AutoDI.IRepository\\AutoDI.IRepository.csproj"
+            },
+            "E:\\项目案例\\AutoDI\\AutoDI.Other\\AutoDI.Others.csproj": {
+              "projectPath": "E:\\项目案例\\AutoDI\\AutoDI.Other\\AutoDI.Others.csproj"
+            },
+            "E:\\项目案例\\AutoDI\\AutoDI.Repository\\AutoDI.Repository.csproj": {
+              "projectPath": "E:\\项目案例\\AutoDI\\AutoDI.Repository\\AutoDI.Repository.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

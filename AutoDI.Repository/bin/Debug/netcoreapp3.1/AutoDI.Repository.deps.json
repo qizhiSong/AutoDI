@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AutoDI.Repository/1.0.0": {
+        "dependencies": {
+          "AutoDI.IRepository": "1.0.0",
+          "AutoDI.Others": "1.0.0"
+        },
+        "runtime": {
+          "AutoDI.Repository.dll": {}
+        }
+      },
+      "AutoDI.IRepository/1.0.0": {
+        "runtime": {
+          "AutoDI.IRepository.dll": {}
+        }
+      },
+      "AutoDI.Others/1.0.0": {
+        "runtime": {
+          "AutoDI.Others.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoDI.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoDI.IRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoDI.Others/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
